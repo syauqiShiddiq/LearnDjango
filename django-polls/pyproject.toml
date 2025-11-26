@@ -12,7 +12,7 @@ description = "Aplikasi polling sederhana buatan saya"
 readme = "README.rst"
 requires-python = ">= 3.10"
 authors = [
-    {name = "Nama Kamu", email = "emailmu@example.com"},
+    {name = "Syauqi", email = "syauqi.shiddiq@outlook.com"},
 ]
 classifiers = [
     "Environment :: Web Environment",
